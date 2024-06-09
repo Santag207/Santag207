@@ -11,11 +11,11 @@
 ###
 
 <div align="left">
-  <p>I'm Santiago Castro Zuluaga</p>
-    <br>I'am from Bogota D.C - Colombia</br>
-    <br>I’m University Student in Systems Engineering 💻 </br>
-    <br>I'm currently learning about "Docker" 📚 </br>
-    <br>In my free time I train at the Gym </br>
+  <p>                             I'm Santiago Castro Zuluaga</p>
+    <br>                          - I'am from Bogota D.C - Colombia</br>
+    <br>                          - I’m University Student in Systems Engineering 💻 </br>
+    <br>                          - I'm currently learning about "Docker" 📚 </br>
+    <br>                          - In my free time I train at the Gym </br>
 </div>
 
 ###
