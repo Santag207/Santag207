@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=santag207&"  />
 </div>
 
 ###
@@ -21,15 +21,37 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👨‍🎓  About Me</h3>
 
 ###
 
-<p align="left">I'm Satiago Castro Zuluaga from Bogota D.C (Colombia) br><br>- 🔭 I’m University Student in Systems Engineering <br>- 📚 I'm currently learning about "Docker" <br>
+<div align="center">
+  <p>I'm Santiago Castro Zuluaga</br>
+    <br>I'am from Bogota D.C - Colombia</br>
+    <br>I’m University Student in Systems Engineering 💻 </br>
+    <br>I'm currently learning about "Docker" 📚 </br>
+    <br>In my free time I train at the Gym </br>
+</div>
 
 ###
 
-<h3 align="left">🛠 Language</h3>
+<h3 align="left">🛠 Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
+</div>
+
+###
+
+<h3 align="left">🔭 Language</h3> 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -57,10 +79,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
-
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">👩‍💻  My Stats :</h3>
 
 ###
 
