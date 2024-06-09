@@ -3,13 +3,16 @@
 <h1 align="center">hey there 👋</h1>
 
 ###
+###
 
 <h2 align="center">👨‍🎓  About Me</h2>
 
 ###
+###
 
-<div align="center">
+<div align="left">
   <p>I'm Santiago Castro Zuluaga</br>
+    ###
     <br>I'am from Bogota D.C - Colombia</br>
     <br>I’m University Student in Systems Engineering 💻 </br>
     <br>I'm currently learning about "Docker" 📚 </br>
@@ -17,8 +20,11 @@
 </div>
 
 ###
+###
 
 <h3 align="center">🔭  Social Media</h3>
+
+###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -29,10 +35,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
 </div>
 
-
+###
 ###
 
 <h3 align="center">🛠  Tools</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -47,8 +55,11 @@
 </div>
 
 ###
+###
 
 <h3 align="center">💻  Language</h3> 
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -77,15 +88,18 @@
 </div>
 
 ###
+###
 
 <h3 align="center">👩‍💻  My Stats :</h3>
 
+###
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=santag207&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
 ###
 
 <div align="center">
