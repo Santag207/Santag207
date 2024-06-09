@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">👨‍🎓  About Me</h2>
+<h2 align="center">👨‍🎓  About Me</h2>
 
 ###
 
@@ -18,9 +18,9 @@
 
 ###
 
-<h3 align="left">🔭  Social Media</h3>
+<h3 align="center">🔭  Social Media</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -32,9 +32,9 @@
 
 ###
 
-<h3 align="left">🛠  Tools</h3>
+<h3 align="center">🛠  Tools</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -48,9 +48,9 @@
 
 ###
 
-<h3 align="left">💻  Language</h3> 
+<h3 align="center">💻  Language</h3> 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  My Stats :</h3>
+<h3 align="center">👩‍💻  My Stats :</h3>
 
 ###
 
