@@ -89,7 +89,7 @@
 ###
 ###
 
-<h3 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  My Stats</h3>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <h3 align="center">  My Stats</h3>
 
 ###
 ###
