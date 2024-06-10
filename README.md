@@ -2,8 +2,8 @@
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
 <p align="center">
-  <a href="https://github.com/santag207/readme-typing-svg"><img src="C:\Users\Santago Castro\Documents\GitHub\Santag207\resources\KDDpcKigbfFpnejZs6.webp?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Hey There,;Hola, Que tal?,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=FF7F3E&size=30&lines=Hey;My+Name+is+Santiago;I'm+Junio+Developer;" /></a>
+
 
  ### <picture align="center"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?raw=true" width = 100px>  </picture> About Me
  
@@ -25,27 +25,27 @@
 
 ### <picture> <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif?raw=true" width = 80px>  </picture> Social Media
 
-<a href="https://www.linkedin.com/in/santiago-castro-zuluaga-9959bb252/" target="_blank">
+<a href="https://www.linkedin.com/in/santiago-castro-zuluaga-9959bb252/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="https://stackoverflow.com/users/25487587/santiago-castro-zuluaga" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a> 
-
   <a href="mailto:castrozsantiago@javeriana.edu.co?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
-  <a href="mailto:castrosantiago476@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white style= margin-bottom: 5px;"></img>
+  <a href="mailto:castrosantiago476@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=000000 style= margin-bottom: 5px;"/>
   </a>
-    <a href="https://x.com/santag1721" target="_blank">
-      <img src="https://https://cdn.freebiesupply.com/logos/large/2x/twitter-logo-black-and-white.png?color=BF1562&style=for-the-badge&logo=instagram&logoColor=white" t=twitter style="margin-bottom: 5px;" />
-    </a>
-  <a href="https://www.instagram.com/santag207/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=BF1562&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
+  <a href="https://x.com/santag1721">
+    <img src="https://img.shields.io/badge/-X\Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&Color=ffffff& style= margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.instagram.com/santag207/">
+    <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=BF1562&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;"/>
   </a>
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo" />
 </div>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 40px>  </picture> IDEs
