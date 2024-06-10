@@ -7,11 +7,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=FF7F3E&size=30&lines=My+Name+is+Santiago;I'm+Junio+Developer;" /></a>
   
- ### <picture align="center"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?raw=true" width = 100px>  </picture> About Me
+ 
+ # About Me <picture align="center"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?raw=true" width = 100px>  </picture> 
  
 <img width="10%" align="right" alt="Github" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
- I'am a very creative persona and a very good working in team
+
+I am a passionate and creative System Engineering student currently in my sixth semester. I excel in teamwork and am known for my flexibility and eagerness to learn new technologies and methodologies. My experience in programming has enabled me to develop innovative and efficient solutions, and I am always looking for opportunities to improve and complement my existing knowledge. I am committed to continuous growth and excellence in my field. I also have a strong affinity for data management and a quick learning ability in any environment.
 
 ### Others
 
@@ -19,13 +21,15 @@
 
 <div align="left">
     <br>- I'm from Bogota D.C - Colombia</br>
-    <br>- I’m University Student in Systems Engineering 💻 </br>
+    <br>- I’m University Student in Pontificia Universidad Javeriana in Systems Engineering career💻 </br>
     <br>- I'm a member of JAVEX (Robotics hotbed of the Pontificia Universidad Javeriana)</br>
+    <br>- I am interested in topics related to astronomy and physics.</br>
     <br>- I'm currently learning about "Docker" 📚 </br>
     <br>- In my free time I train at the Gym </br>
 </div>
 
 ### <picture> <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif?raw=true" width = 80px>  </picture> Social Media
+For anything you need, you can contact me at:
 
 <a href="https://www.linkedin.com/in/santiago-castro-zuluaga-9959bb252/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
