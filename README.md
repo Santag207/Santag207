@@ -28,10 +28,10 @@
 <a href="https://www.linkedin.com/in/santiago-castro-zuluaga-9959bb252/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-   <a href="https://stackoverflow.com/users/25487587/santiago-castro-zuluaga" target="_blank">
+   <a href="https://stackoverflow.com/users/25487587/santiago-castro-zuluaga">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a> 
-  <a href="mailto:castrozsantiago@javeriana.edu.co?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:castrozsantiago@javeriana.edu.co?subject=Feedback%20From%20Github&body=Hello,">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
   <a href="mailto:castrosantiago476@gmail.com">
@@ -41,12 +41,14 @@
     <img src="https://img.shields.io/badge/-X\Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&Color=ffffff& style= margin-bottom: 5px;"/>
   </a>
   <a href="https://www.instagram.com/santag207/">
-    <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=BF1562&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/instagram-C13584?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
-
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo" />
-</div>
+  <a href="https://discordapp.com/users/9533">
+    <img src="https://img.shields.io/badge/discord-7289d9?color=7289d9&style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://www.paypal.com/invoice/p/#B2GB5WB662VATB3W">
+    <img src="https://img.shields.io/badge/Paypal-00457C?color=00457C&style=for-the-badge&logo=Paypal&logoColor=white" style="margin-bottom: 5px;"/>
+  </a>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 40px>  </picture> IDEs
 
