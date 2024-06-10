@@ -7,15 +7,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=FF7F3E&size=30&lines=My+Name+is+Santiago;I'm+Junio+Developer;" /></a>
   
- 
  # About Me <picture align="center"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?raw=true" width = 100px>  </picture> 
  
 <img width="10%" align="right" alt="Github" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-
 I am a passionate and creative System Engineering student currently in my sixth semester. I excel in teamwork and am known for my flexibility and eagerness to learn new technologies and methodologies. My experience in programming has enabled me to develop innovative and efficient solutions, and I am always looking for opportunities to improve and complement my existing knowledge. I am committed to continuous growth and excellence in my field. I also have a strong affinity for data management and a quick learning ability in any environment.
 
-### Others
+## Others Thinks About Me:
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -56,7 +54,15 @@ For anything you need, you can contact me at:
     <img src="https://img.shields.io/badge/Paypal-00457C?color=00457C&style=for-the-badge&logo=Paypal&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 40px>  </picture> IDEs
+
+
+## <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVhc2xwbnN5ank1Mzd4dGJ4c205YWNmeTFrNGNteXZvenM2cnU0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Z2ZT4Y4itmbINNgGt/giphy.gif?raw=true" width = 60px> </picture> My Programming Knowledge <picture> 
+
+
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 40px> </picture> IDEs
+
+
 
 <div align="left">
 
