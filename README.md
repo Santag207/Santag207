@@ -2,7 +2,7 @@
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=FF7F3E&size=30&lines=Hey;My+Name+is+Santiago;I'm+Junio+Developer;" /></a>
+  <a href="https://github.com/santag207/readme-typing-svg"><img src="C:\Users\Santago Castro\Documents\GitHub\Santag207\resources\KDDpcKigbfFpnejZs6.webp?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Hey There,;Hola, Que tal?,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
  ### <picture align="center"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?raw=true" width = 100px>  </picture> About Me
