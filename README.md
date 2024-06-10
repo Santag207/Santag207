@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=FF7F3E&size=30&lines=My+Name+is+Santiago;I'm+Junio+Developer;" /></a>
   
- # About Me <picture align="center"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?raw=true" width = 100px>  </picture> 
+ # About Me <picture align="center"> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2w5dDJmb2JuYmo4cmFhZTF4NXM3MGptdjN1NnlpYW5xMmEya2puMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KDDpcKigbfFpnejZs6/giphy.gif?raw=true" width = 100px>  </picture> 
  
 <img width="10%" align="right" alt="Github" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
