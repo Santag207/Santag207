@@ -21,7 +21,7 @@ I am a passionate and creative System Engineering student currently in my sixth 
     <br>- I'm From Bogota D.C - Colombia</br>
     <br>- I’m University Student in Pontificia Universidad Javeriana in Systems Engineering Career💻 </br>
     <br>- I'm a Member of JAVEX (Robotics Hotbed of the Pontificia Universidad Javeriana)</br>
-    <br>- I am Interested in Topics Related to Astronomy and Physics.</br>
+    <br>- I'm Interested in Topics Related to Astronomy and Physics.</br>
     <br>- I'm Currently Learning About "Docker" 📚 </br>
     <br>- In My Free Time I Train at the Gym </br>
 </div>
