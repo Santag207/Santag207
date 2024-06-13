@@ -13,7 +13,7 @@
  
 <picture> <img width="10%" align="right" alt="Github" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/> </picture>
 
-I am a passionate and creative System Engineering student currently in my sixth semester. I excel in teamwork and am known for my flexibility and eagerness to learn new technologies and methodologies. My experience in programming has enabled me to develop innovative and efficient solutions, and I am always looking for opportunities to improve and complement my existing knowledge. I am committed to continuous growth and excellence in my field. I also have a strong affinity for data management and a quick learning ability in any environment.
+I am a passionate and creative student of Systems Engineering currently in the sixth semester. I excel at teamwork and am characterized by my flexibility and eagerness to learn new technologies and methodologies. My programming experience has allowed me to develop innovative and efficient solutions, and I am always looking for opportunities to improve and complement my existing knowledge. I am committed to continued growth and excellence in my field. I also have a great affinity for data management, basic knowledge of graph programming along with its implementation, and a quick learning ability in any environment.
 
 ### Others Thinks About Me:
 
