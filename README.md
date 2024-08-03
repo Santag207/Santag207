@@ -74,8 +74,6 @@ For anything you need, you can contact me at:
 
 ### <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?raw=true" width = 30px>  </picture> Language
 
-<picture> ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) </picture>
-<picture> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) </picture>
 <picture> ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) </picture>
 <picture> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
@@ -92,6 +90,8 @@ For anything you need, you can contact me at:
 
 ### <picture> <img src = "https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif?raw=true" width = 60px>  </picture> Tools
 
+<picture> ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) </picture>
+<picture> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) </picture>
 <picture> ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) </picture>
 <picture> ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) </picture>
 <picture> ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) </picture>
