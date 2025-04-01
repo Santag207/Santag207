@@ -1,31 +1,35 @@
-<!-- <picture> [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)] </picture> -->
-<picture> ![Banner Final Estudent](https://github.com/Santag207/Santag207/assets/117325532/05a99f80-bb03-4dd4-861b-9d5d874da553) </picture>
-<!-- Image Reference (https://teia.art/objkt/184760) -->
-<!-- [![Adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
- -->
-<p align="center">
- <picture> <a> <img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=00AA00&size=30&lines=Hey;Welcom+To+My+Profile" /></a> </picture>
-
-<p align="center">
-  <picture> <a><img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=FF7F3E&size=30&lines=My+Name+is+Santiago;I'm+Junio+Developer;" /></a> </picture>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://images-assets.nasa.gov/image/NHQ202211160100/NHQ202211160100~large.jpg?w=1919&h=1277&fit=clip&crop=faces%2Cfocalpoint" width="100%" height="100%" style="object-fit: cover;">
+    </td>
+    <td width="50%" align="center">
+     <p align="center">
+     <picture> <a> <img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=00AA00&size=30&lines=Hey;Welcom+To+My+Profile" /></a> </picture>
+     <p align="center">
+     <picture> <a><img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=FF7F3E&size=30&lines=My+Name+is+Santiago;I'm+Engineering+student;" /></a> </picture>
+  </tr>
+</table>  
   
  # <picture align="center"> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI2dXYwbHFhNW5idGhmMXFxbHNjdDF6aXI1NDFpN3Zrb2xmOGl4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp?raw=true" width = 60px>  </picture> About Me
  
 <picture> <img width="10%" align="right" alt="Github" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/> </picture>
 
-I am a passionate and creative student of Systems Engineering currently in the sixth semester. I excel at teamwork and am characterized by my flexibility and eagerness to learn new technologies and methodologies. My programming experience has allowed me to develop innovative and efficient solutions, and I am always looking for opportunities to improve and complement my existing knowledge. I am committed to continued growth and excellence in my field. I also have a great affinity for data management, basic knowledge of graph programming along with its implementation, and a quick learning ability in any environment.
+I am a passionate and creative student of Systems Engineering and Mechanical Engineering, currently in my seventh semester of Systems and first semester of Mechanics. I am driven by a deep curiosity to solve complex problems and collaborate with others to achieve common goals.
 
-### Others Thinks About Me:
+### Summary and Others Thinks About Me:
 
-<picture> <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> </picture>
+<picture> <img width="50%" align="right" alt="Github" src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" /> </picture>
 
 <div align="left">
     <br>- I'm From Bogota D.C - Colombia</br>
-    <br>- I’m University Student in Pontificia Universidad Javeriana in Systems Engineering Career💻 </br>
-    <br>- I'm a Member of JAVEX (Robotics Hotbed of the Pontificia Universidad Javeriana)</br>
-    <br>- I'm Interested in Topics Related to Astronomy and Physics.</br>
-    <br>- I'm Currently Learning About "Docker" 📚 </br>
-    <br>- In My Free Time I Train at the Gym </br>
+    <br>- I’m University Student in Pontificia Universidad Javeriana in Systems Engineering and Mechanical Engineering Careers 💻</br>
+    <br>- I am President of the IEEE Aerospace and Electronic Systems Society Javeriana St. Ch. "AESS Javeriana Bogotá" - (Investigative Aeroespace and related Engineering Hotbed of the Pontificia Universidad Javeriana)</br>
+    <br>- I'm a Member of IEEE Robotics and Automation Society Javeriana St. Ch. "RAS Javeriana Bogotá" - (Investigative Robotics Engineering Hotbed of the Pontificia Universidad Javeriana) </br>
+    <br>- I am a member and ex-leader of the Logistics subsystem in JAVEX - (Competitive Robotics Engineering Hotbed of the Pontificia Universidad Javeriana)</br>
+    <br>- I'm Interested in Topics Related to Aerospace, Simulation, Data Analyst, Astronomy and Physics.</br>
+    <br>- I'm Currently Learning About "ROS2" in RAS Javeriana Bogotá 📚 </br>
+    <br>- In My Free Time I Train at the Gym</br>
 </div>
 
 ### <picture> <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif?raw=true" width = 80px>  </picture> Social Media
@@ -74,7 +78,6 @@ For anything you need, you can contact me at:
 
 ### <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?raw=true" width = 30px>  </picture> Language
 
-<picture> ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) </picture>
 <picture> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> </picture>
@@ -86,19 +89,16 @@ For anything you need, you can contact me at:
 <picture> ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23FFCE5A&color=%23FFCE5A) </picture>
 <picture> ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC) </picture>
 <picture> ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&logoColor=ffffff&logoColor=23007acc) </picture>
-<picture> ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=000000&labelColor=ff0000&color=ff0000&logoColor=000000) </picture>
+<picture> ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) </picture>
 
 ### <picture> <img src = "https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif?raw=true" width = 60px>  </picture> Tools
 
 <picture> ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) </picture>
 <picture> ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) </picture>
-<picture> ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) </picture>
 <picture> ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) </picture>
-<picture> ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman) </picture>
 <picture> ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000) </picture>
-<picture> ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=000000&labelColor=ff0000&color=ff0000) </picture>
-<picture> ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) </picture>
 <picture> ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter) </picture>
+<picture> ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=000000&labelColor=ff0000&color=ff0000&logoColor=000000) </picture>
 
 ### <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif?raw=true" width = 50px>  </picture> My Stats
 <div align="center">
