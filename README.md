@@ -70,6 +70,7 @@ For anything you need, you can contact me at:
   <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" style="pointer-events: none;" />
 </picture>
+  <picture>  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo" style="pointer-events: none;" /> </picture>
 </div>
 
 ### <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?raw=true" width = 30px>  </picture> Language
@@ -101,7 +102,10 @@ For anything you need, you can contact me at:
 <picture> ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) </picture>
 <picture> ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000) </picture>
 <picture> ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter) </picture>
-<picture> ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=000000&labelColor=ff0000&color=ff0000&logoColor=000000) </picture>
+<picture> ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=000000&labelColor=ff0000&color=ff0000&logoColor=000000)</picture>
+<picture> <img src="https://img.shields.io/badge/-R-000000?style=flat&logo=R&labelColor=276DC3&color=276DC3&logoColor=ffffff"> </picture>
+<picture> <img src="https://img.shields.io/badge/-R%20Studio-000000?style=flat&logo=RStudio&labelColor=75AADB&color=75AADB&logoColor=ffffff"> </picture>
+<picture> <img src="https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=Power%20BI&labelColor=F2C811&color=F2C811&logoColor=000000"> </picture>
 
 ### <picture> <img src = "https://i.makeagif.com/media/12-28-2024/6D_y1N.gif" width = 90px>  </picture> Others
 
