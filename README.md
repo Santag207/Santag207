@@ -15,7 +15,7 @@
  
 <picture> <img width="25%" align="right" alt="Github" src="https://images-assets.nasa.gov/image/0400388/0400388~orig.jpg"/> </picture>
 
-I am a Systems and Mechanical Engineering student focused on aerospace engineering, with a strong interest in rocket science. I enjoy working on applied engineering projects that combine programming, user interface development, CAD design, and simulation. My interests also include avionics related systems, such as sensor integration, control, and computational analysis, along with web and mobile applications. I am particularly drawn to CFD and applied computational physics to develop practical and efficient engineering solutions.
+I am a Systems and Mechanical Engineering student focused on aerospace engineering, with a strong interest in rocket science. I enjoy working on applied engineering projects that combine programming, user interface development, CAD design, and simulation. My interests also include avionics related systems, such as sensor integration, control, and computational analysis, along with web and mobile applications. I am particularly drawn to CFD and applied computational physics calculations to develop practical and efficient engineering solutions.
 
 ## Summary and Others Thinks About Me:
 
