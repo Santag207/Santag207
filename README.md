@@ -9,7 +9,7 @@
      <p align="center">
      <picture> <a><img src="https://readme-typing-svg.herokuapp.com?&font=Minecraft&color=FF7F3E&size=30&lines=My+Name+is+Santiago;I'm+Engineering+student;" /></a> </picture>
   </tr>
-</table>  
+</table> 
 
  # <picture align="center"> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI2dXYwbHFhNW5idGhmMXFxbHNjdDF6aXI1NDFpN3Zrb2xmOGl4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp?raw=true" width = 60px>  </picture> About Me
  
