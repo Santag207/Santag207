@@ -11,6 +11,7 @@
   </tr>
 </table> 
 
+
  # <picture align="center"> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI2dXYwbHFhNW5idGhmMXFxbHNjdDF6aXI1NDFpN3Zrb2xmOGl4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp?raw=true" width = 60px>  </picture> About Me
  
 <picture> <img width="25%" align="right" alt="Github" src="https://images-assets.nasa.gov/image/0400388/0400388~orig.jpg"/> </picture>
